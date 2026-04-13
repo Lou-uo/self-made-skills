@@ -3,7 +3,7 @@ For learning purposes, I made a few skills that may not be very useful.
 
 ### 1️⃣ self-portrait
 ---
-[**self-portrait**](https://github.com/Lou-uo/self-made-skills/tree/main/self-portrait). \
+[中文](https://github.com/Lou-uo/self-made-skills/blob/main/self-portrait/README.zh-CN.md) [English](https://github.com/Lou-uo/self-made-skills/blob/main/self-portrait/README.md) \
 \
 Its main function (according to your **conversation history**) is to 
 - analyze your _basic information_
