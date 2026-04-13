@@ -1,0 +1,61 @@
+{
+  "user_id": "",
+  "created_at": "",
+  "updated_at": "",
+  "version": "1.0",
+  "basic_info": {
+    "role": "",
+    "experience_years": 0,
+    "primary_technologies": [],
+    "focus_areas": [],
+    "explanation_preference": "balanced",
+    "communication_style": "direct",
+    "time_zone": "",
+    "work_schedule": ""
+  },
+  "technical_profile": {
+    "programming_languages": [],
+    "frameworks": [],
+    "tools": [],
+    "databases": [],
+    "cloud_platforms": [],
+    "learning": [],
+    "skill_levels": {},
+    "certifications": [],
+    "preferred_learning_methods": ["hands_on", "documentation", "examples"]
+  },
+  "work_style": {
+    "approach": "balanced",
+    "explanation_flow": "concurrent",
+    "code_review_focus": ["functionality", "readability"],
+    "collaboration_style": "collaborative",
+    "problem_solving_method": "analytical",
+    "preferred_feedback_style": "constructive",
+    "deadline_approach": "steady_progress"
+  },
+  "interaction_patterns": {
+    "feedback_style": "constructive",
+    "question_patterns": [],
+    "success_criteria": [],
+    "common_requests": [],
+    "preferred_response_length": "moderate",
+    "example_preference": "practical_examples"
+  },
+  "preferences": {
+    "documentation_style": "comprehensive",
+    "code_organization": "modular",
+    "naming_conventions": "descriptive",
+    "architecture_preference": "scalable",
+    "testing_approach": "test_driven",
+    "deployment_preference": "automated"
+  },
+  "goals": {
+    "short_term": [],
+    "long_term": [],
+    "current_projects": [],
+    "skill_gaps": [],
+    "career_aspirations": ""
+  },
+  "interaction_examples": [],
+  "notes": ""
+}

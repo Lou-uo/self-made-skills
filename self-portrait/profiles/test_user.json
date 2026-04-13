@@ -1,0 +1,71 @@
+{
+  "user_id": "test_user",
+  "created_at": "2026-04-11T22:04:14.537446",
+  "updated_at": "2026-04-11T22:05:51.411680",
+  "version": "1.0",
+  "basic_info": {
+    "role": "Software Engineer",
+    "experience_years": 3,
+    "primary_technologies": [],
+    "focus_areas": [],
+    "explanation_preference": "balanced"
+  },
+  "technical_profile": {
+    "programming_languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "frameworks": [
+      "React",
+      "Node.js",
+      "Express"
+    ],
+    "tools": [
+      "Git",
+      "VS Code",
+      "Docker"
+    ],
+    "learning": [
+      "GraphQL",
+      "Kubernetes",
+      "AWS"
+    ],
+    "skill_levels": {}
+  },
+  "work_style": {
+    "approach": "balanced",
+    "explanation_flow": "concurrent",
+    "code_review_focus": [],
+    "collaboration_style": "collaborative"
+  },
+  "interaction_patterns": {
+    "feedback_style": "constructive",
+    "question_patterns": [],
+    "success_criteria": [],
+    "common_requests": []
+  },
+  "preferences": {
+    "documentation_style": "comprehensive",
+    "code_organization": "modular",
+    "naming_conventions": "descriptive",
+    "architecture_preference": "scalable"
+  },
+  "interaction_examples": [
+    {
+      "category": "code_review",
+      "example": "User prefers detailed code reviews with performance considerations",
+      "timestamp": "2026-04-11T22:05:51.380998"
+    },
+    {
+      "category": "learning_style",
+      "example": "User benefits from step-by-step explanations with practical examples",
+      "timestamp": "2026-04-11T22:05:51.396546"
+    },
+    {
+      "category": "problem_solving",
+      "example": "User likes to understand the big picture before diving into implementation details",
+      "timestamp": "2026-04-11T22:05:51.411680"
+    }
+  ]
+}
