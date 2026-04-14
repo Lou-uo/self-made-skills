@@ -13,7 +13,7 @@ Its main function (according to your **conversation history**) is to
 
 ### 2️⃣ graduate-school-counselor
 ---
-[中文]() | [English]() 
+[中文](https://github.com/Lou-uo/self-made-skills/blob/main/graduate-school-counselor/README.zh-CN.md) | [English](https://github.com/Lou-uo/self-made-skills/blob/main/graduate-school-counselor/README.md) 
 (README)\
 \
 The purpose of this skill is to serve those who want to **locate and understand the enrollment information of colleges and universities**.
