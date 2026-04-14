@@ -1,0 +1,89 @@
+{
+  "student_id": "sample_student",
+  "created_at": "2026-04-13T20:59:29.062642",
+  "updated_at": "2026-04-13T20:59:54.900149",
+  "version": "1.0",
+  "academic_profile": {
+    "major": "Computer Science",
+    "university": "Sample University",
+    "gpa": 3.8,
+    "major_gpa": 0.0,
+    "rank": "",
+    "courses": [],
+    "research_interests": []
+  },
+  "research_experience": {
+    "publications": [],
+    "conferences": [],
+    "projects": [
+      {
+        "title": "基于深度学习的图像识别研究",
+        "description": "使用卷积神经网络进行图像分类任务",
+        "duration": "2024.09-2025.03",
+        "supervisor": "张教授",
+        "outcomes": [
+          "完成实验报告",
+          "准备发表论文"
+        ],
+        "skills_used": [
+          "Python",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "added_at": "2026-04-13T20:59:54.857810"
+      }
+    ],
+    "internships": [],
+    "lab_experience": []
+  },
+  "achievements": {
+    "competitions": [
+      {
+        "name": "ACM-ICPC程序设计竞赛",
+        "year": "2024",
+        "rank": "区域赛银奖",
+        "level": "regional",
+        "description": "团队编程竞赛，解决算法问题",
+        "added_at": "2026-04-13T20:59:54.871389"
+      }
+    ],
+    "awards": [],
+    "scholarships": [],
+    "certifications": []
+  },
+  "test_scores": {
+    "toefl": 105,
+    "ielts": 0,
+    "gre": 325,
+    "sub_gre": ""
+  },
+  "target_programs": {
+    "phd_programs": [
+      {
+        "university": "MIT",
+        "department": "Computer Science and Artificial Intelligence Laboratory",
+        "program": "PhD in Computer Science",
+        "research_areas": [
+          "Machine Learning",
+          "Computer Vision"
+        ],
+        "target_professors": [
+          "Prof. Tommi Jaakkola",
+          "Prof. Regina Barzilay"
+        ],
+        "tier": "reach",
+        "added_at": "2026-04-13T20:59:54.900149"
+      }
+    ],
+    "master_programs": [],
+    "research_areas": [],
+    "career_goals": ""
+  },
+  "application_timeline": {
+    "summer_camps": [],
+    "application_deadlines": [],
+    "interview_schedule": []
+  },
+  "tracked_schools": [],
+  "notes": ""
+}

@@ -1,0 +1,89 @@
+{
+  "student_id": "demo_student",
+  "created_at": "2026-04-13T22:21:55.535510",
+  "updated_at": "2026-04-13T22:21:55.630745",
+  "version": "1.0",
+  "academic_profile": {
+    "major": "计算机科学与技术",
+    "university": "某985高校",
+    "gpa": 3.75,
+    "major_gpa": 0.0,
+    "rank": "",
+    "courses": [],
+    "research_interests": [
+      "机器学习",
+      "计算机视觉",
+      "深度学习"
+    ]
+  },
+  "research_experience": {
+    "publications": [],
+    "conferences": [],
+    "projects": [
+      {
+        "title": "基于深度学习的图像分类系统",
+        "description": "使用ResNet进行CIFAR-10图像分类，准确率达到95%",
+        "duration": "2024.03-2024.08",
+        "supervisor": "李教授",
+        "outcomes": [
+          "完成项目报告",
+          "准备发表论文",
+          "获得优秀项目奖"
+        ],
+        "skills_used": [
+          "Python",
+          "PyTorch",
+          "OpenCV"
+        ],
+        "added_at": "2026-04-13T22:21:55.555381"
+      }
+    ],
+    "internships": [],
+    "lab_experience": []
+  },
+  "achievements": {
+    "competitions": [
+      {
+        "name": "全国大学生计算机设计大赛",
+        "year": "2024",
+        "rank": "国家级二等奖",
+        "level": "national",
+        "description": "AI图像识别项目，获得评委好评",
+        "added_at": "2026-04-13T22:21:55.573037"
+      }
+    ],
+    "awards": [],
+    "scholarships": [],
+    "certifications": []
+  },
+  "test_scores": {
+    "toefl": 102,
+    "ielts": 0,
+    "gre": 318,
+    "sub_gre": ""
+  },
+  "target_programs": {
+    "phd_programs": [],
+    "master_programs": [],
+    "research_areas": [],
+    "career_goals": ""
+  },
+  "application_timeline": {
+    "summer_camps": [],
+    "application_deadlines": [],
+    "interview_schedule": []
+  },
+  "tracked_schools": [
+    {
+      "name": "清华大学",
+      "notes": "目标冲刺学校，AI方向强",
+      "added_at": "2026-04-13T22:21:55.610385"
+    },
+    {
+      "name": "上海交通大学",
+      "notes": "匹配学校，机器学习研究强",
+      "added_at": "2026-04-13T22:21:55.630745"
+    }
+  ],
+  "notes": ""
+}

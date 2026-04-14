@@ -1,0 +1,211 @@
+{
+  "student_id": "",
+  "created_at": "",
+  "updated_at": "",
+  "version": "1.0",
+  "academic_profile": {
+    "major": "",
+    "university": "",
+    "degree": "Bachelor",
+    "gpa": 0.0,
+    "major_gpa": 0.0,
+    "rank": "",
+    "graduation_year": "",
+    "courses": {
+      "core_courses": [],
+      "advanced_courses": [],
+      "math_courses": [],
+      "programming_courses": []
+    },
+    "research_interests": [],
+    "specializations": []
+  },
+  "research_experience": {
+    "publications": [
+      {
+        "title": "",
+        "authors": [],
+        "venue": "",
+        "year": "",
+        "type": "conference|journal|workshop",
+        "status": "published|under_review|preprint"
+      }
+    ],
+    "conferences": [
+      {
+        "name": "",
+        "role": "attendee|presenter|poster",
+        "year": "",
+        "location": ""
+      }
+    ],
+    "projects": [
+      {
+        "title": "",
+        "description": "",
+        "duration": "",
+        "supervisor": "",
+        "outcomes": [],
+        "skills_used": []
+      }
+    ],
+    "internships": [
+      {
+        "company": "",
+        "position": "",
+        "duration": "",
+        "location": "",
+        "description": "",
+        "achievements": []
+      }
+    ],
+    "lab_experience": [
+      {
+        "lab_name": "",
+        "university": "",
+        "duration": "",
+        "supervisor": "",
+        "research_area": "",
+        "responsibilities": []
+      }
+    ]
+  },
+  "achievements": {
+    "competitions": [
+      {
+        "name": "",
+        "year": "",
+        "rank": "",
+        "level": "national|international|regional",
+        "description": ""
+      }
+    ],
+    "awards": [
+      {
+        "name": "",
+        "year": "",
+        "organization": "",
+        "level": "university|national|international",
+        "description": ""
+      }
+    ],
+    "scholarships": [
+      {
+        "name": "",
+        "year": "",
+        "amount": "",
+        "provider": "",
+        "description": ""
+      }
+    ],
+    "certifications": [
+      {
+        "name": "",
+        "issuer": "",
+        "year": "",
+        "valid_until": "",
+        "credential_id": ""
+      }
+    ]
+  },
+  "test_scores": {
+    "toefl": {
+      "total": 0,
+      "reading": 0,
+      "listening": 0,
+      "speaking": 0,
+      "writing": 0,
+      "date": ""
+    },
+    "ielts": {
+      "total": 0,
+      "reading": 0,
+      "listening": 0,
+      "speaking": 0,
+      "writing": 0,
+      "date": ""
+    },
+    "gre": {
+      "verbal": 0,
+      "quantitative": 0,
+      "analytical_writing": 0,
+      "total": 0,
+      "date": ""
+    },
+    "sub_gre": {
+      "subject": "",
+      "score": 0,
+      "percentile": 0,
+      "date": ""
+    }
+  },
+  "target_programs": {
+    "phd_programs": [
+      {
+        "university": "",
+        "department": "",
+        "program": "",
+        "research_areas": [],
+        "target_professors": [],
+        "tier": "reach|match|safety",
+        "notes": ""
+      }
+    ],
+    "master_programs": [
+      {
+        "university": "",
+        "program": "",
+        "specialization": "",
+        "tier": "reach|match|safety",
+        "notes": ""
+      }
+    ],
+    "research_areas": [],
+    "career_goals": {
+      "short_term": "",
+      "long_term": "",
+      "industry_focus": "",
+      "academic_focus": ""
+    }
+  },
+  "application_timeline": {
+    "summer_camps": [
+      {
+        "name": "",
+        "university": "",
+        "deadline": "",
+        "status": "planned|applied|accepted|rejected",
+        "notes": ""
+      }
+    ],
+    "application_deadlines": [
+      {
+        "program": "",
+        "deadline": "",
+        "materials_needed": [],
+        "status": "not_started|in_progress|submitted"
+      }
+    ],
+    "interview_schedule": [
+      {
+        "program": "",
+        "date": "",
+        "format": "phone|video|in_person",
+        "preparation_notes": ""
+      }
+    ]
+  },
+  "tracked_schools": [
+      {
+        "name": "",
+        "department": "",
+        "program_type": "phd|master",
+        "research_areas": [],
+        "target_professors": [],
+        "ranking": 0,
+        "notes": "",
+        "added_at": ""
+      }
+    ],
+  "notes": ""
+}

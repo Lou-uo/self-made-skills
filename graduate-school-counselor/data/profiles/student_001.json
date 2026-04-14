@@ -1,0 +1,87 @@
+{
+  "student_id": "student_001",
+  "created_at": "2026-04-14T09:54:07.325904",
+  "updated_at": "2026-04-14T09:58:50.390368",
+  "version": "1.0",
+  "academic_profile": {
+    "major": "计算机科学与技术",
+    "university": "东北大学秦皇岛分校",
+    "gpa": 4.3,
+    "major_gpa": 0.0,
+    "rank": "1/89",
+    "courses": [],
+    "research_interests": [
+      "智能体",
+      "具身智能",
+      "多模态"
+    ]
+  },
+  "research_experience": {
+    "publications": [
+      {
+        "title": "SCI 1区期刊论文",
+        "status": "在投",
+        "venue": "SCI 1区",
+        "year": "2024",
+        "added_at": "2026-04-14T09:58:50.313656"
+      }
+    ],
+    "conferences": [],
+    "projects": [],
+    "internships": [],
+    "lab_experience": []
+  },
+  "achievements": {
+    "competitions": [
+      {
+        "name": "全国大学生数学竞赛",
+        "rank": "省级一等奖",
+        "level": "regional",
+        "year": "2024",
+        "added_at": "2026-04-14T09:58:50.331826"
+      },
+      {
+        "name": "蓝桥杯程序设计竞赛",
+        "rank": "省级三等奖",
+        "level": "regional",
+        "year": "2024",
+        "added_at": "2026-04-14T09:58:50.350599"
+      }
+    ],
+    "awards": [],
+    "scholarships": [
+      {
+        "name": "国家奖学金",
+        "year": "2024-2025",
+        "provider": "教育部",
+        "added_at": "2026-04-14T09:58:50.371632"
+      },
+      {
+        "name": "校综合一等奖学金",
+        "year": "2024",
+        "provider": "学校",
+        "added_at": "2026-04-14T09:58:50.390368"
+      }
+    ],
+    "certifications": []
+  },
+  "test_scores": {
+    "toefl": 0,
+    "ielts": 0,
+    "gre": 0,
+    "sub_gre": ""
+  },
+  "target_programs": {
+    "phd_programs": [],
+    "master_programs": [],
+    "research_areas": [],
+    "career_goals": ""
+  },
+  "application_timeline": {
+    "summer_camps": [],
+    "application_deadlines": [],
+    "interview_schedule": []
+  },
+  "tracked_schools": [],
+  "notes": ""
+}
