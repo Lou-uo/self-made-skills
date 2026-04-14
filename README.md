@@ -1,6 +1,7 @@
 # self-made-skills
 For learning purposes, I made a few skills that may not be very useful.\
-(At present, it can plug and play on the _**Claude**_.)
+\
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 
 ### 1️⃣ self-portrait
 ---
