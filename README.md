@@ -1,5 +1,6 @@
 # self-made-skills
-For learning purposes, I made a few skills that may not be very useful.
+For learning purposes, I made a few skills that may not be very useful.\
+(At present, it can plug and play on the **Claude**.)
 
 ### 1️⃣ self-portrait
 ---
