@@ -10,3 +10,13 @@ Its main function (according to your **conversation history**) is to
 - analyze your _basic information_
 - remember your _work style_
 - give you _study suggestions_
+
+### 2️⃣ graduate-school-counselor
+---
+[中文]() | [English]() 
+(README)\
+\
+The purpose of this skill is to serve those who want to **locate and understand the enrollment information of colleges and universities**.
+- analyze your _basic information_
+- recommend _matching institutions_ for you
+- inquire about _the enrollment information of interested colleges_
